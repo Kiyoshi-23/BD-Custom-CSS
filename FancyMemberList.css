@@ -1,0 +1,21 @@
+.layout-1qmrhw {
+  opacity: 0.7;
+}
+.layout-1qmrhw:hover, .colorDefault-CDqZdO ~ .nameAndDeccorators-3ERwy2{
+  margin-left: 3px;
+  transition: 0.4s ease;
+  border-radius: 10px;
+  opacity: 1;
+}
+.roleColor-nA7BqX::after {
+  content:"";
+  background: linear-gradient(45deg, currentcolor, #0000);
+  position: absolute;
+  width: 224px;
+  height: 42px;
+  margin: left;
+  left: 0;
+  bottom: 0; 
+  opacity: 0.4;
+  border-radius: 10px;
+}
