@@ -1,0 +1,13 @@
+.peopleListItem-u6dGxF {
+  border-radius: 15px;
+  opacity: 0.5
+}
+.peopleListItem-u6dGxF:hover, .colorDefault-CDqZdO {
+  transition: 0.4s ease;
+  margin: left;
+  margin-left: 3px;
+  left: 0;
+  bottom: 0;
+  border-radius: 15px;
+  opacity: 0.75;
+}
